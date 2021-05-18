@@ -6,6 +6,8 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black"/></a>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=irinaliz&show_icons=true)
 <!--
 **irinaliz/irinaliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
