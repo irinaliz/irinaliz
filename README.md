@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Node.Js-339933?style=flat-square&logo=NodeJs&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Node.Js-339933?style=flat-square&logo=Node-dot-Js&logoColor=black"/></a>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
 
