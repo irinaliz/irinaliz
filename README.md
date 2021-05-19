@@ -1,16 +1,56 @@
-### Hi there 👋
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black"/></a>
+![header](https://capsule-render.vercel.app/api?type=wave&color=B7F0B1&height=300&section=header&text=Irina_Liz&fontsize=98&fontColor=FFFFFF&fontAlign=82)
+
+
+## :laughing: 공부중인 이보민 입니다
+
+<p align="center">
+  <br><br><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Node.Js-339933?style=flat-square&logo=Node-dot-Js&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
-
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black"/></a>
+<br><br><br>
+  </p>
+  <br>
+  
+  > 현재 독학으로 가볍게 공부를 하며 코딩에 흥미를 붙이고 있습니다! <br>
+  > 맨 처음에는 Minecraft의 plugin을 통해 Java를 시작으로 <br>
+  > 나중에 코딩이란 세계에 관심을 갖게 되어 이 세계를 접했습니다! <br>
+  > 하지만 지금은 웹 & 앱에 무척이나 관심을 갖고있습니다!
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=irinaliz&show_icons=true)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irinaliz)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+## :bookmark: 참여 프로젝트
+<p>
+아직 참여한 프로젝트는 없습니다!
+</p>
+<br><br><br>
+
+
+## :mag_right: Clone Coding
+
+코딩에 대한 지식과 경험을 쌓고 넓히기 위해 클론코딩을 통해 선행과 복습을 하고있습니다.
+
+|Teacher|Link|
+|------|------|
+|Nomadcoder|[Movie][movielink]|
+
+[movielink]: https://irinaliz.github.io/react/ "Go Moive"
+
+<br><br>
+## :pencil2: Study List
+
+언제 추가될지, 어느 것이 주제인지 모릅니다! 하지만 저에겐 도움이 된 공부입니다.
+|Type|Link|
+|------|------|
+|CSS|Example|
+
+
+<br><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irinaliz&hide=contribs,prs&show_icons=true&theme=react&layout=compact&langs_count=5)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irinaliz&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=B7F0B1&height=300&section=footer&reversal=true)
 
 
 <!--
