@@ -49,12 +49,13 @@
 <br><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irinaliz&hide=contribs,prs&show_icons=true&theme=react&layout=compact&langs_count=5)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irinaliz&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Github Readme Create Reference Page
+<br><br><br>
+### Github Readme Create Reference Page
+<br>
 [이모지][imoji]
-[헤더이미지] [header]
-[구성] [layout]
-[마크다운] [markdown]
+[헤더이미지][header]
+[구성][layout]
+[마크다운][markdown]
 
 [imoji]: https://gist.github.com/rxaviers/7360908 "Go Link"
 [header]: https://github.com/kyechan99/capsule-render#types "Go Link"
