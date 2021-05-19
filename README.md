@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=B7F0B1&height=300&section=header&text=Irina_Liz&fontsize=98&fontColor=FFFFFF&fontAlign=82)
+![header](https://capsule-render.vercel.app/api?type=wave&color=B7F0B1&height=300&section=header&text=Irina_Liz&fontsize=98&fontColor=FFFFFF&fontAlign=82&animation=fadeIn)
 
 
 ## :laughing: 공부중인 이보민 입니다
