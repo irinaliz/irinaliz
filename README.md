@@ -52,10 +52,10 @@
 <br><br><br>
 ### Github Readme Create Reference Page
 <br>
-[이모지][imoji]
-[헤더이미지][header]
-[구성][layout]
-[마크다운][markdown]
+[이모지] [imoji]
+[헤더이미지] [header]
+[구성] [layout]
+[마크다운] [markdown]
 
 [imoji]: https://gist.github.com/rxaviers/7360908 "Go Link"
 [header]: https://github.com/kyechan99/capsule-render#types "Go Link"
